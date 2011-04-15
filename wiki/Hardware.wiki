@@ -1,6 +1,6 @@
 #summary Hardware description of SixthSense.
 
-== Create your own Sixth Sense Device ==
+== Create your own SixthSense Device ==
 
 So you want to make your own SixthSense Device. Now what?
 
@@ -41,25 +41,27 @@ These are the basic pieces that should buy:
   #	3M MPro110 (http://www.amazon.com/3M-MPRO150-Pocket-Projector-MPro150/dp/B0031ESJ78/ref=sr_1_2?ie=UTF8&s=electronics&qid=1299270933&sr=8-2 ~$270)
 
  *	*Camera*
-  #	Logitech QuickCam Pro for notebooks (http://www.amazon.com/Logitech-Quickcam-for-Notebooks-Pro/dp/B000BBYH8O/ref=sr_1_3?ie=UTF8&qid=1299271109&sr=8-3 ~$23)
+  #	Logitech QuickCam Pro for notebooks (http://www.amazon.com/Logitech-Quickcam-for-Notebooks-Pro/dp  #	[H8O/ref=sr_1_3?ie=UTF8&qid=1299271109&sr=8-3 ~$23)
  
  *	*Microphone*
-  #	Microphone of Logitech QuickCam pro for notebooks (http://www.amazon.com/Logitech-Quickcam-for-Notebooks-Pro/dp/B000BBYH8O/ref=sr_1_3?ie=UTF8&qid=1299271109&sr=8-3 ~$23)
+  #	Microphone of Logitech QuickCam pro for notebooks (http://wwwAAXA] ~$110 
+    #	[ckcam-for-Notebooks-Pro/dp/B000BBYH8O/ref=sr_1_3?ie=UTF8&qid=1299271109&sr=8-3 ~$23)
 
  *	*A mirror assembly*
-  #	Front faced mirror is best, 1”X1” first surface mirror
+  #	Front faced mirror isMicrovision] ~$200
+
+  *	*L.E.D* 
+   #	[or
 
  *	*Laptop Computer*: Sony Viao Z Series (the mobile computing device)
 
 
-Now that you have all these pieces, you need a way to combine them. We recommend using Lego strips to form the base. The projector, camera, and mirror assembly can be directly put onto this base. You can also use Velcro to combine the products.
+Now that you have all these pieces, you need a way3M MPro110] ~$270
 
-
-
-
-
-===Mobile computing device===
-The SixthSense system uses a mobile computing device in user’s pocket as the processing device. The software program enabling all the features of the system runs on this computing device. This device can be a mobile phone or a small laptop computer. The camera, the projector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
-
-
+ *	*Camera*
+  #	[base. The projector, camera, and mirror assembly can be directly put onto this base. You can also use Velcro to cLogitech QuickCam Pro for notebooks] ~$23
  
+ *	*Microphone*
+  #	[base. The projector, camera, and mirror assembly can be directly put onto this base. You can also use Velcro to cMicrophone of Logitech QuickCam pro for notebooks] ~$23res of the system runs on this computing device. This device can be a mobile phone or a (this can be purchased from anywhere, i.e. Ebay)
+
+ *	*Laptop Computer*: Any Windows computerojector and the microphone are connected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection. 
