@@ -57,4 +57,7 @@ These are the basic pieces that should buy:
   #	Microvision (http://www.amazon.com/MicroVision-SHOWWX-Classic-Laser-Projector/dp/B003G5ML9Y/ref=sr_1_2?ie=UTF8&s=electronics&qid=1299271049&sr=8-2 ~$200
 
  *	*L.E.D* 
-  #	3M MPro110 (http://www.amazon.com/3M-MPRO150-Pocket-Projector-MPro1Suggested Product: Any Windows computero1http://www.hotelemarketer.com/wp-content/uploads/2009/03/sixth-sense-wuw300px01.jpg15onnected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection 
+  #	3M MPro110 (http://www.amazon.com/3M-MPRO150-Pocket-Projector-MPro1Suggested Product: Any Windows computero1
+For a more detailed list of resources, along with prices check [http://code.google.com/p/sixthsense/wiki/Links Links / Resources]1http://www.hotelemarketer.com/wp-content/uploads/2009/03/sixth-sense-wuw300px01.jpg15onnected to this device using wired or wireless connection. The detail of the software program that runs on this device is provided in next section. The mobile computing device is also connected to the Internet via 3G network or wireless connection
+
+ 
